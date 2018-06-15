@@ -1,0 +1,30 @@
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\bin\Labs.dll.config
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\bin\Labs.dll
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\bin\Labs.pdb
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\obj\Debug\Labs.dll
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\obj\Debug\Labs.pdb
+G:\08240 2D Graphics\labs\labs\bin\Labs.dll.config
+G:\08240 2D Graphics\labs\labs\bin\Labs.dll
+G:\08240 2D Graphics\labs\labs\bin\Labs.pdb
+G:\08240 2D Graphics\labs\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+G:\08240 2D Graphics\labs\labs\obj\Debug\Labs.dll
+G:\08240 2D Graphics\labs\labs\obj\Debug\Labs.pdb
+D:\Libraries - HDD\Documents\08240 2D Graphics\labs\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\bin\Labs.dll.config
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\bin\Labs.dll
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\bin\Labs.pdb
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\obj\Debug\Labs.dll
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\labs\labs\obj\Debug\Labs.pdb
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\bin\Labs.dll.config
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\bin\Labs.dll
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\bin\Labs.pdb
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\obj\Debug\Labs.dll
+D:\Libraries - HDD\Documents\08240 2D Graphics\acw\labs\obj\Debug\Labs.pdb
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\bin\Labs.dll.config
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\bin\Labs.dll
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\bin\Labs.pdb
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\obj\Debug\Labs.dll
+\\data.adir.hull.ac.uk\home5\506\506442\08240 2D Graphics\acw\labs\obj\Debug\Labs.pdb
